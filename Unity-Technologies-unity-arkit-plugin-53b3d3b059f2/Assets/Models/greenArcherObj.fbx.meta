@@ -1,0 +1,556 @@
+fileFormatVersion: 2
+guid: 19e88fe18990e4bbbb91c61dedd36436
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: arrowArmature
+    100002: arrowChain
+    100004: arrowExplosive
+    100006: arrowHoming
+    100008: arrowNormal
+    100010: arrowRapidFire
+    100012: arrowRapidFire.001
+    100014: arrowRapidFire.002
+    100016: body
+    100018: bodyShirtless
+    100020: Bone
+    100022: Bone 1
+    100024: Bone.001
+    100026: Bone.001 1
+    100028: Bone.001_end
+    100030: Bone.002
+    100032: Bone.002 1
+    100034: Bone.002_end
+    100036: Bone.003
+    100038: Bone.004
+    100040: Bone.005
+    100042: Bone.006
+    100044: Bone.007
+    100046: Bone.007_end
+    100048: Bone.008
+    100050: Bone.008_end
+    100052: Bone_end
+    100054: bow
+    100056: bowArmature
+    100058: eyeLeft
+    100060: eyeRight
+    100062: GreenArcherArmature
+    100064: //RootNode
+    100066: mixamorig:Head
+    100068: mixamorig:HeadTop_End
+    100070: mixamorig:HeadTop_End_end
+    100072: mixamorig:Hips
+    100074: mixamorig:LeftArm
+    100076: mixamorig:LeftFoot
+    100078: mixamorig:LeftForeArm
+    100080: mixamorig:LeftHand
+    100082: mixamorig:LeftHandIndex1
+    100084: mixamorig:LeftHandIndex2
+    100086: mixamorig:LeftHandIndex3
+    100088: mixamorig:LeftHandIndex4
+    100090: mixamorig:LeftHandIndex4_end
+    100092: mixamorig:LeftHandMiddle1
+    100094: mixamorig:LeftHandMiddle2
+    100096: mixamorig:LeftHandMiddle3
+    100098: mixamorig:LeftHandMiddle4
+    100100: mixamorig:LeftHandMiddle4_end
+    100102: mixamorig:LeftHandPinky1
+    100104: mixamorig:LeftHandPinky2
+    100106: mixamorig:LeftHandPinky3
+    100108: mixamorig:LeftHandPinky4
+    100110: mixamorig:LeftHandPinky4_end
+    100112: mixamorig:LeftHandRing1
+    100114: mixamorig:LeftHandRing2
+    100116: mixamorig:LeftHandRing3
+    100118: mixamorig:LeftHandRing4
+    100120: mixamorig:LeftHandRing4_end
+    100122: mixamorig:LeftHandThumb1
+    100124: mixamorig:LeftHandThumb2
+    100126: mixamorig:LeftHandThumb3
+    100128: mixamorig:LeftHandThumb4
+    100130: mixamorig:LeftHandThumb4_end
+    100132: mixamorig:LeftLeg
+    100134: mixamorig:LeftShoulder
+    100136: mixamorig:LeftToe_End
+    100138: mixamorig:LeftToe_End_end
+    100140: mixamorig:LeftToeBase
+    100142: mixamorig:LeftUpLeg
+    100144: mixamorig:Neck
+    100146: mixamorig:RightArm
+    100148: mixamorig:RightFoot
+    100150: mixamorig:RightForeArm
+    100152: mixamorig:RightHand
+    100154: mixamorig:RightHandIndex1
+    100156: mixamorig:RightHandIndex2
+    100158: mixamorig:RightHandIndex3
+    100160: mixamorig:RightHandIndex4
+    100162: mixamorig:RightHandIndex4_end
+    100164: mixamorig:RightHandMiddle1
+    100166: mixamorig:RightHandMiddle2
+    100168: mixamorig:RightHandMiddle3
+    100170: mixamorig:RightHandMiddle4
+    100172: mixamorig:RightHandMiddle4_end
+    100174: mixamorig:RightHandPinky1
+    100176: mixamorig:RightHandPinky2
+    100178: mixamorig:RightHandPinky3
+    100180: mixamorig:RightHandPinky4
+    100182: mixamorig:RightHandPinky4_end
+    100184: mixamorig:RightHandRing1
+    100186: mixamorig:RightHandRing2
+    100188: mixamorig:RightHandRing3
+    100190: mixamorig:RightHandRing4
+    100192: mixamorig:RightHandRing4_end
+    100194: mixamorig:RightHandThumb1
+    100196: mixamorig:RightHandThumb2
+    100198: mixamorig:RightHandThumb3
+    100200: mixamorig:RightHandThumb4
+    100202: mixamorig:RightHandThumb4_end
+    100204: mixamorig:RightLeg
+    100206: mixamorig:RightShoulder
+    100208: mixamorig:RightToe_End
+    100210: mixamorig:RightToe_End_end
+    100212: mixamorig:RightToeBase
+    100214: mixamorig:RightUpLeg
+    100216: mixamorig:Spine
+    100218: mixamorig:Spine1
+    100220: mixamorig:Spine2
+    400000: arrowArmature
+    400002: arrowChain
+    400004: arrowExplosive
+    400006: arrowHoming
+    400008: arrowNormal
+    400010: arrowRapidFire
+    400012: arrowRapidFire.001
+    400014: arrowRapidFire.002
+    400016: body
+    400018: bodyShirtless
+    400020: Bone
+    400022: Bone 1
+    400024: Bone.001
+    400026: Bone.001 1
+    400028: Bone.001_end
+    400030: Bone.002
+    400032: Bone.002 1
+    400034: Bone.002_end
+    400036: Bone.003
+    400038: Bone.004
+    400040: Bone.005
+    400042: Bone.006
+    400044: Bone.007
+    400046: Bone.007_end
+    400048: Bone.008
+    400050: Bone.008_end
+    400052: Bone_end
+    400054: bow
+    400056: bowArmature
+    400058: eyeLeft
+    400060: eyeRight
+    400062: GreenArcherArmature
+    400064: //RootNode
+    400066: mixamorig:Head
+    400068: mixamorig:HeadTop_End
+    400070: mixamorig:HeadTop_End_end
+    400072: mixamorig:Hips
+    400074: mixamorig:LeftArm
+    400076: mixamorig:LeftFoot
+    400078: mixamorig:LeftForeArm
+    400080: mixamorig:LeftHand
+    400082: mixamorig:LeftHandIndex1
+    400084: mixamorig:LeftHandIndex2
+    400086: mixamorig:LeftHandIndex3
+    400088: mixamorig:LeftHandIndex4
+    400090: mixamorig:LeftHandIndex4_end
+    400092: mixamorig:LeftHandMiddle1
+    400094: mixamorig:LeftHandMiddle2
+    400096: mixamorig:LeftHandMiddle3
+    400098: mixamorig:LeftHandMiddle4
+    400100: mixamorig:LeftHandMiddle4_end
+    400102: mixamorig:LeftHandPinky1
+    400104: mixamorig:LeftHandPinky2
+    400106: mixamorig:LeftHandPinky3
+    400108: mixamorig:LeftHandPinky4
+    400110: mixamorig:LeftHandPinky4_end
+    400112: mixamorig:LeftHandRing1
+    400114: mixamorig:LeftHandRing2
+    400116: mixamorig:LeftHandRing3
+    400118: mixamorig:LeftHandRing4
+    400120: mixamorig:LeftHandRing4_end
+    400122: mixamorig:LeftHandThumb1
+    400124: mixamorig:LeftHandThumb2
+    400126: mixamorig:LeftHandThumb3
+    400128: mixamorig:LeftHandThumb4
+    400130: mixamorig:LeftHandThumb4_end
+    400132: mixamorig:LeftLeg
+    400134: mixamorig:LeftShoulder
+    400136: mixamorig:LeftToe_End
+    400138: mixamorig:LeftToe_End_end
+    400140: mixamorig:LeftToeBase
+    400142: mixamorig:LeftUpLeg
+    400144: mixamorig:Neck
+    400146: mixamorig:RightArm
+    400148: mixamorig:RightFoot
+    400150: mixamorig:RightForeArm
+    400152: mixamorig:RightHand
+    400154: mixamorig:RightHandIndex1
+    400156: mixamorig:RightHandIndex2
+    400158: mixamorig:RightHandIndex3
+    400160: mixamorig:RightHandIndex4
+    400162: mixamorig:RightHandIndex4_end
+    400164: mixamorig:RightHandMiddle1
+    400166: mixamorig:RightHandMiddle2
+    400168: mixamorig:RightHandMiddle3
+    400170: mixamorig:RightHandMiddle4
+    400172: mixamorig:RightHandMiddle4_end
+    400174: mixamorig:RightHandPinky1
+    400176: mixamorig:RightHandPinky2
+    400178: mixamorig:RightHandPinky3
+    400180: mixamorig:RightHandPinky4
+    400182: mixamorig:RightHandPinky4_end
+    400184: mixamorig:RightHandRing1
+    400186: mixamorig:RightHandRing2
+    400188: mixamorig:RightHandRing3
+    400190: mixamorig:RightHandRing4
+    400192: mixamorig:RightHandRing4_end
+    400194: mixamorig:RightHandThumb1
+    400196: mixamorig:RightHandThumb2
+    400198: mixamorig:RightHandThumb3
+    400200: mixamorig:RightHandThumb4
+    400202: mixamorig:RightHandThumb4_end
+    400204: mixamorig:RightLeg
+    400206: mixamorig:RightShoulder
+    400208: mixamorig:RightToe_End
+    400210: mixamorig:RightToe_End_end
+    400212: mixamorig:RightToeBase
+    400214: mixamorig:RightUpLeg
+    400216: mixamorig:Spine
+    400218: mixamorig:Spine1
+    400220: mixamorig:Spine2
+    2100000: eyeIris.001
+    2100002: eyePupil.001
+    2100004: arrowTailExplosivemat
+    2100006: arrowHeadExplosivemat
+    2100008: arrowShaftExplosivemat
+    2100010: arrowTailChainmat
+    2100012: arrowHeadChainmat
+    2100014: arrowShaftChainmat
+    2100016: arrowTailHomingmat
+    2100018: arrowHeadHomingmat
+    2100020: arrowShaftHomingmat
+    2100022: arrowTailRapidFiremat
+    2100024: arrowHeadRapidFiremat
+    2100026: arrowShaftRapidFiremat
+    2100028: arrowTailmat
+    2100030: arrowHeadNormalmat
+    2100032: arrowShaftmat
+    2100034: jacketmat
+    2100036: bra
+    2100038: skinmat
+    2100040: roboLegs1mat
+    2100042: roboLegs2mat
+    2100044: leggingsmat
+    2100046: skirtmat
+    2100048: skirtBeltmat
+    2100050: pocketmat
+    2100052: zippermat
+    2100054: kneeCameraBasemat
+    2100056: kneeCameraLensmat
+    2100058: hairmat
+    2100060: newEyeMat
+    2100062: nailPolishmat
+    2100064: shirtmat
+    2100066: bowMainmat
+    2100068: bowStringmat
+    2300000: arrowChain
+    2300002: arrowExplosive
+    2300004: arrowHoming
+    2300006: arrowNormal
+    2300008: arrowRapidFire
+    2300010: arrowRapidFire.001
+    2300012: arrowRapidFire.002
+    3300000: arrowChain
+    3300002: arrowExplosive
+    3300004: arrowHoming
+    3300006: arrowNormal
+    3300008: arrowRapidFire
+    3300010: arrowRapidFire.001
+    3300012: arrowRapidFire.002
+    4300000: eyeLeft
+    4300002: eyeRight
+    4300004: arrowExplosive
+    4300006: arrowChain
+    4300008: arrowHoming
+    4300010: arrowRapidFire
+    4300012: arrowNormal
+    4300014: arrowRapidFire.002
+    4300016: arrowRapidFire.001
+    4300018: bodyShirtless
+    4300020: body
+    4300022: bow
+    7400000: GreenArcherArmature|GreenArcherPoseLib
+    9500000: //RootNode
+    13700000: body
+    13700002: bodyShirtless
+    13700004: bow
+    13700006: eyeLeft
+    13700008: eyeRight
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arrowHeadChainmat
+    second: {fileID: 2100000, guid: abf65f606e42f4b73ae22bbe759a6439, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arrowHeadExplosivemat
+    second: {fileID: 2100000, guid: ce7cf205325bf4152ad0cedf88ade8d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arrowHeadHomingmat
+    second: {fileID: 2100000, guid: 4b4e44b67fa614c748d31937628617e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arrowHeadNormalmat
+    second: {fileID: 2100000, guid: 96838de52e48d42a0bd3828a4a6b44af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arrowHeadRapidFiremat
+    second: {fileID: 2100000, guid: a158e2ce73f08443eb84259d38b884c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arrowShaftChainmat
+    second: {fileID: 2100000, guid: 76ac2d94077f94a85bb8f562ca16fd5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arrowShaftExplosivemat
+    second: {fileID: 2100000, guid: d2fa397d327414a91aa244d3d5ad120a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arrowShaftHomingmat
+    second: {fileID: 2100000, guid: fe19ca13aeaa74f5a9f3803b798cf38d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arrowShaftRapidFiremat
+    second: {fileID: 2100000, guid: d9a0e3e30c0a94b51936d5f99fea2729, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arrowShaftmat
+    second: {fileID: 2100000, guid: 573575ffe6aa54c539b1255e39bf65ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arrowTailChainmat
+    second: {fileID: 2100000, guid: 12bddc86adbc24e71bc0f5a394743da7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arrowTailExplosivemat
+    second: {fileID: 2100000, guid: 9a55c3e74cde84ac0ba9246700459148, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arrowTailHomingmat
+    second: {fileID: 2100000, guid: 228af8c94f57b4f518caa8ed8dbab444, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arrowTailRapidFiremat
+    second: {fileID: 2100000, guid: bc827b2b0732a406b9cc0a0a63f3fd92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arrowTailmat
+    second: {fileID: 2100000, guid: 6373676c74114441fa2197a94057248b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bowMainmat
+    second: {fileID: 2100000, guid: 5cf648a52c54d454cb822ba5b48a1628, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bowStringmat
+    second: {fileID: 2100000, guid: 499b52fb639144ff5a90e7763dbcee6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bra
+    second: {fileID: 2100000, guid: 1f60144fa59fe4c53bb01cfaff4022f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyeIris.001
+    second: {fileID: 2100000, guid: 8de1d09f04eea4649a513cdb4d8c3f42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyePupil.001
+    second: {fileID: 2100000, guid: 47d3d36da418b4f42b961ead1f338881, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hairmat
+    second: {fileID: 2100000, guid: 53328a0ded184406daeaa143f216323c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jacketmat
+    second: {fileID: 2100000, guid: 7c8125775d2994602be312025eab556c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kneeCameraBasemat
+    second: {fileID: 2100000, guid: a084fc98bca8849dd9380e5492e4340d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kneeCameraLensmat
+    second: {fileID: 2100000, guid: 5a9e65dcece9247428cc78b366d2936e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: leggingsmat
+    second: {fileID: 2100000, guid: 5fd56f915cd9544feb5d5a316bbb4d57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nailPolishmat
+    second: {fileID: 2100000, guid: aa6ee2dc3c9aa4705b3b5c3dac3567b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: newEyeMat
+    second: {fileID: 2100000, guid: f42f96c8a1c544a25b80433e5ec724d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pocketmat
+    second: {fileID: 2100000, guid: 2a584d5752ce74832a3230eb69146817, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roboLegs1mat
+    second: {fileID: 2100000, guid: 8480aa90f64294a519856e300746d6ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roboLegs2mat
+    second: {fileID: 2100000, guid: d939da13179fe49afb58c65c6a3d5cf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shirtmat
+    second: {fileID: 2100000, guid: 63775c40f4dcd4bd6a179104fe10696f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skinmat
+    second: {fileID: 2100000, guid: 722f40936f4d6484680d775f470d3654, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skirtBeltmat
+    second: {fileID: 2100000, guid: d1a7a945309dc47cd94ebb5453e846d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skirtmat
+    second: {fileID: 2100000, guid: f7f90f972055f42f499777bce383c335, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zippermat
+    second: {fileID: 2100000, guid: 2b246224605794109add7fa75ecd5026, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

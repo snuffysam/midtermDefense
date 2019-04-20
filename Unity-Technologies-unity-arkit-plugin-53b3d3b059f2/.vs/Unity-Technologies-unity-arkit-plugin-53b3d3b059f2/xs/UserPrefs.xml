@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{04EC7FC1-6ACD-9336-48EE-357BBCB99995}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/homeBaseScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ufoScript.cs" Line="36" Column="35" />
+      <File FileName="Assets/UnityARKitPlugin/Plugins/iOS/UnityARKit/Helpers/UnityARHitTestExample.cs" Line="33" Column="75" />
+      <File FileName="Assets/Scripts/homeBaseScript.cs" Line="81" Column="70" />
+      <File FileName="Assets/Scripts/restartScript.cs" Line="17" Column="9" />
+      <File FileName="Assets/Scripts/targetingScript.cs" Line="60" Column="60" />
+      <File FileName="Assets/Scripts/projectileScript.cs" Line="23" Column="38" />
+      <File FileName="Assets/UnityARKitPlugin/Plugins/iOS/UnityARKit/Helpers/UnityARGeneratePlane.cs" Line="13" Column="54" />
+      <File FileName="Assets/UnityARKitPlugin/Plugins/iOS/UnityARKit/Helpers/UnityARUtility.cs" Line="6" Column="27" />
+      <File FileName="Assets/UnityARKitPlugin/ARKitRemote/ARKitRemoteConnection.cs" Line="16" Column="49" />
+      <File FileName="Assets/UnityARKitPlugin/Plugins/iOS/UnityARKit/NativeInterface/ARReferenceObject.cs" Line="150" Column="4" />
+      <File FileName="Assets/UnityARKitPlugin/Plugins/iOS/UnityARKit/Helpers/UnityARCameraManager.cs" Line="14" Column="12" />
+      <File FileName="Assets/Scripts/musicScript.cs" Line="33" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unity-Technologies-unity-arkit-plugin-53b3d3b059f2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="homeBaseScript.cs" selected="True" />
+              </Node>
+              <Node name="UnityARKitPlugin" expanded="True">
+                <Node name="ARKitRemote" expanded="True" />
+                <Node name="Plugins" expanded="True">
+                  <Node name="iOS" expanded="True">
+                    <Node name="UnityARKit" expanded="True">
+                      <Node name="Helpers" expanded="True" />
+                      <Node name="NativeInterface" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
